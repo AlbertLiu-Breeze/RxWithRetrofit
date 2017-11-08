@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Albert/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.0/748f0546d5c3c27f1aef07270ffea0c45f0c42a4/rxjava-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="748f0546d5c3c27f1aef07270ffea0c45f0c42a4">
+        <dex dex="/Users/Albert/work/GitDemos/RxjavaRetrofitDemo/app/build/intermediates/pre-dexed/debug/rxjava-1.1.0_01f36e243d8f0a8f1d5319b4075c5e91a016d7f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Albert/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0-beta4/739e00dea1f0ac04fdb9b6160d667e23cc50a791/retrofit-2.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="739e00dea1f0ac04fdb9b6160d667e23cc50a791">
+        <dex dex="/Users/Albert/work/GitDemos/RxjavaRetrofitDemo/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0-beta4_883c1c72f1418f506667b80cc973ffd6516ec94e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Albert/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/Albert/work/GitDemos/RxjavaRetrofitDemo/app/build/intermediates/pre-dexed/debug/gson-2.6.2_cf6b727d26a8c4ed4d639ec0e182f9f99ea29465.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Albert/.android/build-cache/f8602bc7d639268b1d9ecd3bf1a8afa3f3db35e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/Users/Albert/work/GitDemos/RxjavaRetrofitDemo/app/build/intermediates/pre-dexed/debug/classes_17daab1a494524c7a39f0169bf298367aaa083b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Albert/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/Albert/work/GitDemos/RxjavaRetrofitDemo/app/build/intermediates/pre-dexed/debug/okio-1.6.0_c6512039db26f22b0837a4e25d19da494e5e51c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Albert/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0-beta4/de5935a367ba5e343e9df786ac8fc0c7d52b5f0c/converter-gson-2.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de5935a367ba5e343e9df786ac8fc0c7d52b5f0c">
+        <dex dex="/Users/Albert/work/GitDemos/RxjavaRetrofitDemo/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0-beta4_b448b51709c5e265e7961c814b560c9800dc1c31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Albert/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.0.1/b34c1f2d993044656e87f88970b6818e99e886ba/okhttp-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="/Users/Albert/work/GitDemos/RxjavaRetrofitDemo/app/build/intermediates/pre-dexed/debug/okhttp-3.0.1_56cb69e5ca2c15ff39afb72ad757b3716c055a82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Albert/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/Albert/work/GitDemos/RxjavaRetrofitDemo/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1_2ff83c2f15603bbb974ce3657d3d1c9ad0c5573f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Albert/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.0-beta4/bd49baf667542c7d06f71e598bdee7fe57272013/adapter-rxjava-2.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd49baf667542c7d06f71e598bdee7fe57272013">
+        <dex dex="/Users/Albert/work/GitDemos/RxjavaRetrofitDemo/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.0.0-beta4_670057eb3dc39cc1fe1fadeffa7f3f87f6206f16.jar" />
+    </item>
+
+</items>
